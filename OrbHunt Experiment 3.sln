@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrbHunt Experiment 3", "Assembly-CSharp.csproj", "{94974D19-5380-5F3C-4167-B89F68562B4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrbHunt Experiment 3", "Assembly-CSharp-firstpass.csproj", "{9FE0ADF4-FCF4-FD36-593B-586070AE6EC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrbHunt Experiment 3", "Assembly-CSharp-Editor.csproj", "{4BE8B4BB-09F3-DB12-3FCE-2DD539882153}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94974D19-5380-5F3C-4167-B89F68562B4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94974D19-5380-5F3C-4167-B89F68562B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94974D19-5380-5F3C-4167-B89F68562B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94974D19-5380-5F3C-4167-B89F68562B4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FE0ADF4-FCF4-FD36-593B-586070AE6EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE0ADF4-FCF4-FD36-593B-586070AE6EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE0ADF4-FCF4-FD36-593B-586070AE6EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE0ADF4-FCF4-FD36-593B-586070AE6EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BE8B4BB-09F3-DB12-3FCE-2DD539882153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE8B4BB-09F3-DB12-3FCE-2DD539882153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE8B4BB-09F3-DB12-3FCE-2DD539882153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE8B4BB-09F3-DB12-3FCE-2DD539882153}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
